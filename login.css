@@ -1,0 +1,52 @@
+.header {
+    
+    color: black;
+    background-color: black;
+    height:60px;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 40px;
+    
+}
+
+
+
+.rform {
+    border:solid black;
+    block-size:10px;
+    width: 30%;
+    border-radius: 10px;
+    height: 200px;
+    background-color: rgb(2, 29, 53);
+    text-align: center;
+    margin-left: 35%;
+    padding-top: 5%;
+    margin-top: 10%;
+    border-style: inset;
+
+}
+
+input[type=password] {
+   width: 70%;
+   margin-top: 8px;
+  padding-top: 10px;
+  box-sizing: border-box;
+  color: aliceblue;
+  background-color: blanchedalmond;
+
+}
+input[type=text] {
+    width: 70%;
+    padding-top: 10px;
+    box-sizing: border-box;  
+    color: aliceblue;
+    background-color: blanchedalmond;
+    
+ }
+
+ input[type=button] {
+    margin-top: 8px;
+  padding-top: 10px;
+
+ }

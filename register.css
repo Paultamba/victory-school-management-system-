@@ -1,0 +1,99 @@
+.header {
+    
+    color: black;
+    background-color: black;
+    height:60px;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 40px;
+    
+}
+.nav1 {
+    background-color: grey;
+       width: 17%;
+    height: 450px;
+    margin-top: 15px;
+  text-align: center;
+  text-decoration-color: aliceblue;
+  float: left;
+  font-size: 20;
+}
+
+.section {
+    padding-top: 20px;
+    margin-top: 15px;
+    background-color: rgb(2, 29, 53);
+    color: aliceblue;
+    height: 570px;
+    margin-left: 240px;
+    text-align: center;
+    font-size: 20px;
+   
+
+}
+
+.form1 {
+    border:solid black;
+    block-size:10px;
+    width: 50%;
+    border-radius: 10px;
+    height: 200px;
+    background-color: gray;
+    text-align: center;
+    margin-left: 25%;
+    padding-top: 5%;
+    margin-top: 5%;
+    color: black;
+    box-shadow:4px;
+
+}
+
+.nav2 {
+    background-color: grey;
+    width: 17%;
+    height: 90px;
+    margin-top: -91px;
+    text-align: center;
+    text-decoration-color: aliceblue;
+    float: left;
+    margin-right: 100px;
+    font-size: 20;
+    
+}
+.footer {
+    background-color: black;
+    margin-top: 5px;
+    color: aliceblue;
+    text-align: center;
+    height: 40px;
+
+}
+a {
+    text-decoration: none;
+}
+input[type=text] {
+    width: 40%;
+    margin-left: 40px;
+    padding-top: 5px;
+    margin-bottom: 2px;
+    box-sizing: border-box;
+    border-radius: 5px; 
+    margin-top: 5px;  
+ }
+ 
+ input[type=button] {
+    margin-top: 8px;
+    color: white;
+    background-color: green;
+    box-sizing: border-box;
+    border-radius: 5px;
+    box-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    
+     }
+
+     input[type=radio] {
+        color: green;
+     }
